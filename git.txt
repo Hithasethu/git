@@ -9,3 +9,6 @@ git remote add
 git branch 
 
 git remote -v
+
+git status 
+
